@@ -12,3 +12,5 @@
 * https://d2l.ai/chapter_recommender-systems/fm.html
 * https://www.kaggle.com/code/siavrez/deepfm-model
   
+* https://www.kaggle.com/code/vaibhav243/driving-styles-from-driving-score
+* https://www.kaggle.com/datasets/shashwatwork/driving-behavior-dataset/data
